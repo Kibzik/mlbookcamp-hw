@@ -130,7 +130,7 @@ Install locust using:
 pip install locust
 ```
 
-Use the following locust file: [locustfile.py](locustfile.py)
+Use the following locust file: [locustfile.py](src/locustfile.py)
 
 Ensure that it is pointed at your bento's endpoint (In case you didn't name your endpoint "classify")
 
